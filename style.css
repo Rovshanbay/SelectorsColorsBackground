@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.first{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 14rem 0;
+    background-attachment: fixed;
+}
+
+.first h1{
+    font-size: 88px;
+    color: #212529
+}
+
+.first h3{
+    font-size: 28px;
+    color: #212529;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+.first a{
+    background-color: #1d809f;
+    color: #fff;
+    padding: 20px 40px;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: .6s;
+}
+
+.first a:hover{
+    background-color: #0b4455;
+    padding: 20px 60px;
+}
+
+.second{
+    text-align: center;
+    padding: 6rem 0;    
+}
+
+.second h2{
+    font-size: 32px;
+}
+
+.second p{
+    font-size: 20px;
+    color: #212529;
+    margin-bottom: 40px;
+}
+
+.second p a{
+    text-decoration: underline;
+    color: #1d809f;
+}
+
+.second .offer{
+    background-color: #212529;
+    color: #fff;
+    padding: 20px 40px;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: .6s;
+}
+
+.second .offer:hover{    
+    padding: 20px 60px;
+}
+
+.third{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 13rem 0;
+    background-attachment: fixed;
+}
+
+.third h1{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom: 40px;
+}
+
+.third a{
+    background-color: #1d809f;
+    color: #fff;
+    padding: 20px 40px;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: .6s;
+}
+
+.third a:hover{
+    background-color: #0b4455;
+    padding: 20px 60px;
+}
+
+.fourth{
+    background-color: #1d809f;
+    color: #fff;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.fourth h1{
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.fourth .offer2{
+    background-color: #fff;
+    color: #212529;
+    padding: 20px 40px;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: .6s;
+    margin-right: 24px;
+}
+
+.fourth .offer2:hover{    
+    padding: 20px 60px;
+}
+
+.fourth .offer3{
+    background-color: #212529;
+    color: #fff;
+    padding: 20px 40px;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: .6s;
+}
+
+.fourth .offer3:hover{    
+    padding: 20px 60px;
+}
+
+.map{
+    height: 30rem;            
+}
+
+.map iframe{
+    height: 100%;
+    width: 100%;
+    border: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .first{
+    text-align: center;
+    padding: 18rem 0rem;
+    background-image: url(https://cdn.wallpapersafari.com/14/5/LKtFgm.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.second{
+    text-align: center;
+    padding: 18rem 0rem;
+    background-image: url(https://wallpapercave.com/wp/wp5709278.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.third{
+    text-align: center;
+    padding: 18rem 0rem;
+    background-image: url(https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFja2luZ3xlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+} */
+
+
+
+
+/* .demo{
+    background-color: orange;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+    transition: 1s;
+}
+
+.demo:hover{
+    background-color: orangered;
+    
+} */
+
+/* img{
+    width: 35%;
+    margin: 50px;
+    filter: grayscale(1);
+    transition: .6s;
+}
+
+img:hover{
+    filter: grayscale(0);
+}
+
+::-webkit-scrollbar{
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: orange;
+    border-radius: 10px;
+}
+
+input:focus{
+    outline-color: red;
+} */
